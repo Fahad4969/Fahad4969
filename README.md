@@ -19,7 +19,3 @@ Skills: Python/ Java/ C# / PHP / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahad4969&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fahad4969)  
-
-![GitHub metrics](https://metrics.lecoq.io/Fahad4969)  
-
