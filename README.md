@@ -5,10 +5,10 @@
 
 I have completed my graduation in software engineering department from American International University Bangladesh. Now I'm trying to build a few simple but useful tools.
 
-Skills:
-       Programming Languages: C, C++, Java, C#, Python, Html, PHP, CSS, JavaScript.
-       Applications: Code-Blocks, VS19, VS Code, XAMPP, Notepad++, MATLAB.
-       Databases: MySQL, MS SQL Server 2019, Oracle.
+###Skills:
+      - Programming Languages: C, C++, Java, C#, Python, Html, PHP, CSS, JavaScript.
+      - Applications: Code-Blocks, VS19, VS Code, XAMPP, Notepad++, MATLAB.
+      - Databases: MySQL, MS SQL Server 2019, Oracle.
 
 - 🟢 I’m currently working on Web Development 
 - 🟢 I’m currently learning Software Engineering 
