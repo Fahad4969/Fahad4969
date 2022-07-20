@@ -1,9 +1,9 @@
 ![](https://media-exp1.licdn.com/dms/image/C5616AQEfXdF9loKlmw/profile-displaybackgroundimage-shrink_350_1400/0/1589097837182?e=1638403200&v=beta&t=4wxhX7-jxH-jUPFRGYxlgH8ZNyNSncn1TDh8_DVcgtM)
 
-### Hi there 👋, I'm **Fahad** from **Bangladesh**
+### Hi there, I'm **Fahad** from **Bangladesh**
 
 
-I have completed my graduation in software engineering department from American International University Bangladesh. Now I'm trying to build a few simple but useful tools.
+I have completed my graduation in Software Engineering department from American International University Bangladesh. Now I'm trying to build a few simple but useful tools.
 
 ### Skills:
     🟩 Programming Languages: C, C++, Java, C#, Python, Html, PHP, CSS, JavaScript.
