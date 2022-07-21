@@ -3,7 +3,7 @@
 ### Hi there, I'm **Fahad** from **Bangladesh**
 
 
-I have completed my graduation in Software Engineering department from American International University Bangladesh. Now I'm trying to build a few simple but useful tools.
+I have completed my graduation in Software Engineering from American International University Bangladesh. Now I'm trying to build a few simple but useful tools.
 
 ### Skills:
     🟩 Programming Languages: C, C++, Java, C#, Python, Html, PHP, CSS, JavaScript.
