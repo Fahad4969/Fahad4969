@@ -21,5 +21,5 @@ I have completed my graduation in Software Engineering from American Internation
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad4969)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahad4969&show_icons=true)  
+
 
