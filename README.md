@@ -11,10 +11,10 @@ I have completed my graduation in Software Engineering from American Internation
     🟩 Databases: MySQL, MS SQL Server 2019, Oracle.
     
 ### Summary
-  - 🟢 I’m currently working on Web Development 
-  - 🟢 I’m currently learning Software Engineering 
-  - 🟢 I’m looking to collaborate on Github 
-  - 🟢 How to reach me: Email me on fahadmollah43@gmail.com
+  -  I’m currently working on Web Development 
+  -  I’m currently learning Software Engineering 
+  -  I’m looking to collaborate on Github 
+  -  How to reach me: Email me on fahadmollah43@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fahad4969)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fahad-mollah-a12540136//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/FAHAD6949/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/FahadMollah8)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/mollahfahae681)  
